@@ -1,0 +1,2 @@
+# cloud_next_question
+Google Cloud NextでsinmetalがPMとかにばったりあったら、聞いてほしい質問や要望をissueにぶっこむ場所
